@@ -1,2 +1,2 @@
 console.log("config.js")
-console.log("version 34")
+console.log("version 34 ssh")
